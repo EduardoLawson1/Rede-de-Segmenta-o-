@@ -1,4 +1,4 @@
-# Rede de Segmentação Semântica UNet com Acurácia de 88%
+# Rede de Segmentacao Semântica UNet com Acurácia de 88%
 
 Bem-vindo ao repositório da Rede de Segmentação Semântica utilizando a arquitetura UNet! Este projeto oferece uma implementação ousada de uma rede de segmentação semântica usando a popular arquitetura UNet. A rede é treinada para realizar a segmentação precisa de objetos em imagens, permitindo identificar áreas de interesse e separá-las do fundo.
 
