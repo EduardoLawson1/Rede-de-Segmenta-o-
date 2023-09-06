@@ -1,5 +1,6 @@
+![UNET](https://github.com/EduardoLawson1/Rede-de-Segmentacao/assets/102562697/4f2d78b3-97e9-49dc-9b48-8839250db760)
 # Rede de Segmentacao Semântica UNet com Acurácia de 88%
-
+<img src="/assets/102562697/4f2d78b3-97e9-49dc-9b48-8839250db760">
 Bem-vindo ao repositório da Rede de Segmentação Semântica utilizando a arquitetura UNet! Este projeto oferece uma implementação ousada de uma rede de segmentação semântica usando a popular arquitetura UNet. A rede é treinada para realizar a segmentação precisa de objetos em imagens, permitindo identificar áreas de interesse e separá-las do fundo.
 
 ## Sobre o Projeto
